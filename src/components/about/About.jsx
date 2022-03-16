@@ -1,6 +1,5 @@
 import React from 'react'
 import './about.css'
-import ME from "../../assets/nftpng.png"
 
 export default function About() {
   return (
@@ -11,7 +10,7 @@ export default function About() {
       <div className="container about__container">
           <div className="about__me">
             <div className="about__me-image">
-              <img src={ME} alt="about image"/>  
+              <img src="" alt="about image"/>  
             </div>
           </div>
           <div className="about__content">
