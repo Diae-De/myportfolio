@@ -38,4 +38,12 @@ export const portData =[
         github:"https://github.com/Diae-De/disneyplus-clone",
         website:"https://disnepplus-clone.netlify.app/"
     },
+
+    {
+        id:6,
+        img:"../../../image/jewelrycut.png",
+        title:"Jewelry Shop",
+        github:"https://github.com/Diae-De/jewelryshop",
+        website:"http://jeweshop.netlify.app/"
+    },
 ]
